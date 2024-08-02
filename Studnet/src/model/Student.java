@@ -15,8 +15,13 @@ public class Student {
 	}
 	public void m3()
 	{
-		System.out.println();
-	}	
+		System.out.println("Method m3");
+	}
+	public void m4()
+	{
+		
+		System.out.println("Method m4");
+	}
 	
 	
 	
