@@ -16,6 +16,7 @@ public class Student {
 	public void m3()
 	{
 		System.out.println("Method m3");
+
 	}
 	public void m4()
 	{
@@ -31,8 +32,7 @@ public class Student {
 		
 		System.out.println("This is m6 ");
 	}
-	
-	
+
 	
 
 	public static void main(String[] args) {
