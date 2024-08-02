@@ -32,7 +32,10 @@ public class Student {
 		
 		System.out.println("This is m6 ");
 	}
-
+	public void m7()
+	{
+		System.out.println("This is m7");
+	}
 	
 
 	public static void main(String[] args) {
