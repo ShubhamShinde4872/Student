@@ -22,6 +22,10 @@ public class Student {
 		
 		System.out.println("Method m4");
 	}
+	public void m5()
+	{
+		System.out.println("Method m5");
+	}
 	
 	
 	
