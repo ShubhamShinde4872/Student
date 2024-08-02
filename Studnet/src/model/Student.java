@@ -24,7 +24,7 @@ public class Student {
 	}
 	public void m5()
 	{
-		System.out.println("nikhil");
+		System.out.println("This ids method m5");
 	}
 	
 	
