@@ -34,7 +34,7 @@ public class Student {
 	}
 	public void m7()
 	{
-		System.out.println("This is m7");
+		System.out.println("This is method m7");
 	}
 	
 
