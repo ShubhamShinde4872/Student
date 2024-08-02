@@ -24,7 +24,7 @@ public class Student {
 	}
 	public void m5()
 	{
-		System.out.println("sagar");
+		System.out.println("sagar sarode");
 	}
 	
 	
